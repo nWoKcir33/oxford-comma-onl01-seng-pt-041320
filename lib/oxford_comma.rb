@@ -8,3 +8,5 @@ if array.length == 2
   array.join(", ")
 end
 end
+
+oxford_comma(array)
