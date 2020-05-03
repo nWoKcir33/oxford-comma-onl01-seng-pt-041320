@@ -1,4 +1,4 @@
 def oxford_comma(array)
 
-array.join
+array.each{|fruit| new_string << array
 end
