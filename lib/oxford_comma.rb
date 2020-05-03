@@ -7,3 +7,4 @@ if array.length == 2
   elsif array[-1]prepend "and"
   array.join(", ")
 end
+end
